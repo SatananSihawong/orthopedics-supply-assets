@@ -1,0 +1,1 @@
+Favicon v15 uses the public PNG asset through jsDelivr to avoid stale tab-icon caching in Google Apps Script web apps.
